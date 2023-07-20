@@ -6,7 +6,7 @@ A Todo app using react.
 
 ## Demo
 
-https://chat-app-vw.netlify.app/
+[App Link](https://todo-app-zydiag.vercel.app/)
 
 ## Preview
 ![image](https://github.com/Zydiag/todoApp/assets/96966190/3a3c72e5-5066-482f-87a1-922abf1bd13d)
